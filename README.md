@@ -1,0 +1,2 @@
+# Carsties
+learning .net core
